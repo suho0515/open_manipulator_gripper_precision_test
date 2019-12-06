@@ -1,0 +1,1 @@
+# open_manipulator_gripper_precision_test
